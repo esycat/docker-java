@@ -1,4 +1,4 @@
-FROM esycat/ubuntu-base:lts
+FROM esycat/ubuntu:latest
 
 MAINTAINER "Eugene Janusov" <esycat@gmail.com>
 
