@@ -16,4 +16,3 @@ RUN add-apt-repository ppa:webupd8team/java && \
     apt-get clean && \
     rm -rf /tmp/* /var/tmp/* /var/lib/apt/archive/* /var/lib/apt/lists/* && \
     rm -rf /var/cache/oracle-{jre,jdk}*-installer
-
