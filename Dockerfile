@@ -2,7 +2,7 @@ FROM esycat/ubuntu:latest
 
 MAINTAINER "Eugene Janusov" <esycat@gmail.com>
 
-ENV JAVA_VERSION_MAJOR 8
+ENV JAVA_VERSION_MAJOR 9
 ENV JAVA_HOME /usr/lib/jvm/java-${JAVA_VERSION_MAJOR}-oracle
 
 # Auto-accept license agreement
